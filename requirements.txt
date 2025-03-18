@@ -1,0 +1,12 @@
+pandas==1.5.3
+numpy==1.23.5
+matplotlib==3.6.2
+seaborn==0.12.2
+scikit-learn==1.2.0
+xgboost==1.7.5
+imbalanced-learn==0.9.1
+jupyter==1.0.0
+
+To install the dependencies listed in the requirements.txt file, you can use the following command in your terminal:
+
+pip install -r requirements.txt
